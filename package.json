@@ -1,0 +1,8 @@
+{
+  "name": "serverless-graphql",
+  "version": "1.0.0",
+  "description": "Experimenting with Shep, GraphQL and DyanomoDB on Lambda",
+  "main": "index.js",
+  "author": "David Roberts",
+  "license": "MIT"
+}
